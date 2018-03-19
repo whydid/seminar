@@ -25,3 +25,4 @@
 Сайт|<https://daringfireball.net/projects/markdown/>
 #### Markdown Syntax in gedit
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Markdown_Syntax_in_gedit.png/1024px-Markdown_Syntax_in_gedit.png)
+![](https://web.telegram.org/#/im?p=u455374825_17586342033491800284)
