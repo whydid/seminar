@@ -26,3 +26,4 @@
 #### Markdown Syntax in gedit
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Markdown_Syntax_in_gedit.png/1024px-Markdown_Syntax_in_gedit.png)
 ![](https://github.com/whydid/seminar/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)
+![](https://github.com/whydid/seminar/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.PNG)
